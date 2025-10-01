@@ -15,7 +15,7 @@ Obs: Adicionar as imagens de teste da aplicação, dentro do diretorio da mesma.
 
 
 ## Execução da aplicação
-Para executar a aplicação, navegue ate o diretorio da aplicação pelo prompt de comando e execute o comendo:
+Para executar a aplicação, navegue ate o diretorio da aplicação pelo prompt de comando e execute o comando:
 
 ...
 python -m http.server
